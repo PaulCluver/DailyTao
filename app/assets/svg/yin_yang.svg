@@ -1,0 +1,19 @@
+<svg viewBox="0 0 128 128" height="100%" width="100%" pointer-events="none" display="block" id="svg-1" >
+       <symbol id="yinyang">
+  <g transform="translate(-0.5, -0.5)">
+    <!-- A white circle, for the bulk of the left-hand part -->
+    <circle cx="0.5" cy="0.5" r="0.5" fill="white"/>
+    <!-- A black semicircle, for the bulk of the right-hand part -->
+    <path d="M 0.5,0 A 0.5,0.5 0 0,1 0.5,1 z" fill="black"/>
+    <!-- Circles to extend each part -->
+    <circle cx="0.5" cy="0.25" r="0.25" fill="white"/>
+    <circle cx="0.5" cy="0.75" r="0.25" fill="black"/>
+    <!-- The spots -->
+    <circle cx="0.5" cy="0.25" r="0.1" fill="black"/>
+    <circle cx="0.5" cy="0.75" r="0.1" fill="white"/>
+    <!-- An outline for the whole shape -->
+    <circle cx="0.5" cy="0.5" r="0.5" fill="none"
+      stroke="gray" stroke-width=".01"/>
+  </g>
+</symbol>
+   </svg>

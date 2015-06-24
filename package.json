@@ -1,9 +1,9 @@
 {
-  "name": "Daily Tao",
+  "name": "DailyTao",
   "private": true,
-  "version": "0.0.2",
-  "description": "A quotes application",
-  "repository": "https://github.com/angular/material-start",
+  "version": "0.0.1",
+  "description": "A daily qoute from the Tao Te Ching",
+  "repository": "https://github.com/PaulCluver/DailyTao.git",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
